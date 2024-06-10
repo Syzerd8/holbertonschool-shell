@@ -1,1 +1,2 @@
-okok
+#!/bin/bash
+pwd
