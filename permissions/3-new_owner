@@ -1,2 +1,2 @@
 #!/bin/bash
-sshpass -p betty hello
+sshpass -p hello betty
