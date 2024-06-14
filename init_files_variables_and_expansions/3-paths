@@ -1,2 +1,2 @@
 #!/bin/bash
-find -d $"PATH" | grep * | wc -l
+find type -d $"PATH" | grep * | wc -l
