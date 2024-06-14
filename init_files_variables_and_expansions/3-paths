@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $PATH |find A -type d -print | tr : $"PATH" | grep / | wc -l
+echo $PATH | -type d -print | tr : $"PATH" | grep / | wc -l
