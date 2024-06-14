@@ -1,2 +1,2 @@
 #!/bin/bash
-printf alias BEST="School"
+set alias BEST="School"
